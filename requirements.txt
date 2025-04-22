@@ -1,0 +1,11 @@
+imageio
+imageio-ffmpeg
+numpy
+psutil
+pyaes
+Pyrogram
+TgCrypto 
+flask
+requests
+aiomysql
+
